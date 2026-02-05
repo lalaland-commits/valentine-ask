@@ -37,7 +37,7 @@ noBtn.addEventListener("mouseover", () => {
 });
 
 yesBtn.addEventListener("click", () => {
-    title.textContent = "Yippeeee!";
+    title.textContent = "I love you soo muchh!";
 
     catImg.src = "cat_dance.gif";
 
@@ -47,3 +47,4 @@ yesBtn.addEventListener("click", () => {
 
     finalText.style.display = "block";
 });
+
